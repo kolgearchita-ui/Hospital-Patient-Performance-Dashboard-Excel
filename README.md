@@ -29,11 +29,11 @@ The dashboard transforms raw healthcare data into meaningful insights through ch
 - Data Analysis
 - Dashboard Design
 
-## 📸 Dashboard Screenshot
+## 📸 Dashboard Preview
 
-Hospital & Patient Performance Dashboard
+### Hospital & Patient Performance Dashboard
 
-"Hospital and Patient Performance Dashboard" (screenshots/hospital-patient-dashboard.png)
+![Hospital Patient Dashboard](https://raw.githubusercontent.com/kolgearchita-ui/Hospital-Patient-dashboard/main/snapshot%20of%20the%20Hospital%20dashboard.png)
 
 ## 💡 Key Skills Demonstrated
 
@@ -55,6 +55,7 @@ Archita Kolge
 B.Sc. IT Graduate | Data Analyst
 
 Skills: Power BI | SQL | Tableau | Python | Advanced Excel | Data Analysis
+
 Created as a Data Analytics project using Microsoft Excel.
 
 Thank you for visiting my project!
