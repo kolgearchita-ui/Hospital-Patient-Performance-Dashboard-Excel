@@ -50,7 +50,7 @@ The main objective of this project is to analyze hospital performance and patien
 
 ## 👨‍💻 Author
 
-Archita Kolge
+**Archita Kolge**
 
 B.Sc. IT Graduate | Data Analyst
 
